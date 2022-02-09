@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Joshua Karki: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to talk about my past experience and projects!
